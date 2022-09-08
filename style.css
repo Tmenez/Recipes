@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Recipe {
+    background-image: url(picture/FOOD.jfif);
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+.link a {
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+}
+.recipe-info {
+    margin: auto;
+    padding: 15px;
+    width: 500px;
+    height: 320px;
+    border: 1px grey;
+    background-color: white;
+}
+input {
+    padding-right: 250px;
+    padding-bottom: 18px;
+    border: 2px grey solid;
+    border-radius: 5px;
+}
+.log-in {
+    color: rgb(29, 27, 27);
+    font-size: 25px;
+}
+.login-btn {
+    width: 450px;
+    height: 50px;
+    border: 1px ;
+}
+.account {
+    color: black;
+}
+.account a {
+    color: black;
+}
+.bg {
+    background: rgb(28, 27, 27);
+}
